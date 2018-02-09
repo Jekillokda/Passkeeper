@@ -1,1 +1,1 @@
-It's just my coursework on C++ which contains passwords, save them from browser and do autofilling
+It's just my coursework on C++ using Qt which contains passwords with encoding, importing and exporting
